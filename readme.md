@@ -70,7 +70,7 @@ A comprehensive and responsive real estate platform offering personalized proper
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/real-estate-platform.git
+   git clone https://github.com/CipherNomad/Real-Estate-Application.git
    ```
 
 2. Install dependencies (if using Node.js):
@@ -88,25 +88,28 @@ A comprehensive and responsive real estate platform offering personalized proper
 ## Screenshots
 
 ### Hero Section
-![Hero Section](images/hero-section-placeholder.png)
+![Samples/Screenshot 2024-12-13 at 6.08.12 PM.png]
 
 ### Taglines Section
-![Taglines Section](images/taglines-section-placeholder.png)
+![Samples/Screenshot 2024-12-13 at 6.08.21 PM.png]
 
 ### About Us Section
-![About Us Section](images/about-us-section-placeholder.png)
+![Samples/Screenshot 2024-12-13 at 6.08.21 PM.png]
 
 ### Ongoing Offers
-![Ongoing Offers](images/offers-section-placeholder.png)
+![Samples/Screenshot 2024-12-13 at 6.08.30 PM.png]
 
 ### Recommended Properties
-![Recommended Properties](images/recommended-properties-placeholder.png)
-
+![Samples/Screenshot 2024-12-13 at 6.09.20 PM.png]
 ### Login Page
-![Login Page](images/login-page-placeholder.png)
+![Samples/Screenshot 2024-12-13 at 6.07.22 PM.png]
+
+### Signup Page
+![Samples/Screenshot 2024-12-13 at 6.09.32 PM.png]
+
 
 ### Property Listing Page
-![Property Listing Page](images/property-listing-page-placeholder.png)
+![Samples/Screenshot 2024-12-13 at 6.09.32 PM.png]
 
 ## Contribution Guidelines
 
@@ -127,7 +130,7 @@ A comprehensive and responsive real estate platform offering personalized proper
 
 ## Hosting
 
-This project is deployed on [Heroku](https://www.heroku.com/) or other cloud services. Access the live project [here](https://example.com).
+This project is deployed on Netlify . Access the live project [https://bespoke-cranachan-2b9466.netlify.app/].
 
 ## License
 
