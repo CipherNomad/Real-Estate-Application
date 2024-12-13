@@ -131,7 +131,7 @@ A comprehensive and responsive real estate platform offering personalized proper
 
 ## Hosting
 
-This project is deployed on Netlify . Access the live project [https://bespoke-cranachan-2b9466.netlify.app/].
+This project is deployed on Github . Access the live project [https://ciphernomad.github.io/Real-Estate-Application/].
 
 ## License
 
