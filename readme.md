@@ -88,28 +88,29 @@ A comprehensive and responsive real estate platform offering personalized proper
 ## Screenshots
 
 ### Hero Section
-![Samples/Screenshot 2024-12-13 at 6.08.12 PM.png]
+![Hero Section](Samples/Screenshot%202024-12-13%20at%206.08.12%C2%A0PM.png)
 
 ### Taglines Section
-![Samples/Screenshot 2024-12-13 at 6.08.21 PM.png]
+![Taglines Section](Samples/Screenshot%202024-12-13%20at%206.08.21%C2%A0PM.png)
 
 ### About Us Section
-![Samples/Screenshot 2024-12-13 at 6.08.21 PM.png]
+![About Us Section](Samples/Screenshot%202024-12-13%20at%206.08.21%C2%A0PM.png)
 
 ### Ongoing Offers
-![Samples/Screenshot 2024-12-13 at 6.08.30 PM.png]
+![Ongoing Offers](Samples/Screenshot%202024-12-13%20at%206.08.30%C2%A0PM.png)
 
 ### Recommended Properties
-![Samples/Screenshot 2024-12-13 at 6.09.20 PM.png]
+![Recommended Properties](Samples/Screenshot%202024-12-13%20at%206.09.20%C2%A0PM.png)
+
 ### Login Page
-![Samples/Screenshot 2024-12-13 at 6.07.22 PM.png]
+![Login Page](Samples/Screenshot%202024-12-13%20at%206.07.22%C2%A0PM.png)
 
 ### Signup Page
-![Samples/Screenshot 2024-12-13 at 6.09.32 PM.png]
-
+![Signup Page](Samples/Screenshot%202024-12-13%20at%206.09.32%C2%A0PM.png)
 
 ### Property Listing Page
-![Samples/Screenshot 2024-12-13 at 6.09.32 PM.png]
+![Property Listing Page](Samples/Screenshot%202024-12-13%20at%206.09.32%C2%A0PM.png)
+
 
 ## Contribution Guidelines
 
