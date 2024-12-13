@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--=============== REMIXICONS ===============-->
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+
+    <!--=============== CSS ===============-->
+    <link rel="stylesheet" href="style.css">
+
+    <title>Sign Up Page</title>
+</head>
+<body>
+    <div class="container">
+        <div class="login__content">
+            <img src="bgnm.png" alt="signup image" class="login__img">
+
+            <form action="" class="login__form">
+                <div>
+                    <h1 class="login__title">
+                        <span>Create</span> Account
+                    </h1>
+                    <p class="login__description">
+                        Welcome! Please sign up to continue.
+                    </p>
+                </div>
+
+                <div>
+                    <div class="login__inputs">
+                        <div>
+                            <label for="input-email" class="login__label">Email</label>
+                            <input type="email" placeholder="Enter your email address" required class="login__input" id="input-email">
+                        </div>
+
+                        <div>
+                            <label for="input-pass" class="login__label">Password</label>
+                            <input type="password" placeholder="Enter your password" required class="login__input" id="input-pass">
+                        </div>
+
+                        <div>
+                            <label for="input-confirm-pass" class="login__label">Confirm Password</label>
+                            <input type="password" placeholder="Confirm your password" required class="login__input" id="input-confirm-pass">
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="login__buttons">
+                        <button class="login__button">Sign Up</button>
+                        <!-- Updated Log In Button to redirect to login.html -->
+                        <a href="index.html" class="login__button login__button-ghost">Log In</a>
+                    </div>
+
+                    <a href="#" class="login__forgot">Forgot Password?</a>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!--=============== MAIN JS ===============-->
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
