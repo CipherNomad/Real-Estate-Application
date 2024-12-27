@@ -41,9 +41,9 @@ A comprehensive and responsive real estate platform offering personalized proper
 
 ### Technologies
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Python, Java, Golang
-- **Database**: MySQL, PostgreSQL, MongoDB
-- **AI/ML**: Python (TensorFlow, PyTorch) or any suitable ML framework
+- **Backend**: Node.js
+- **Database**: MongoDB
+- **AI/ML**: Python (TensorFlow, PyTorch) 
 
 ### Theme Ideas
 - Urban Residential Properties
